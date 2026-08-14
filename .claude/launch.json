@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "webgl-build",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8621", "--directory", "Artifacts/WebGL"],
+      "port": 8621
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "level_12",
+  "name": "Grand Finale",
+  "width": 9,
+  "height": 9,
+  "moveLimit": 34,
+  "seed": 0,
+  "palette": ["r", "g", "b", "y", "p", "o"],
+  "goals": [
+    { "color": "r", "count": 20 },
+    { "color": "g", "count": 20 },
+    { "color": "b", "count": 20 }
+  ],
+  "layout": [
+    "##.....##",
+    "...R.B...",
+    "..X...X..",
+    "...=.=...",
+    ".........",
+    "...=.=...",
+    "..X...X..",
+    "...*.*...",
+    "##.....##"
+  ]
+}

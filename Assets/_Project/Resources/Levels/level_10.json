@@ -1,0 +1,35 @@
+{
+  "id": "level_10",
+  "name": "The Vault",
+  "width": 9,
+  "height": 9,
+  "moveLimit": 30,
+  "seed": 0,
+  "palette": ["r", "g", "b", "y", "p", "o"],
+  "goals": [{ "color": "r", "count": 32 }],
+  "layout": [
+    ".........",
+    ".........",
+    ".X.....X.",
+    ".........",
+    ".........",
+    ".........",
+    ".X.....X.",
+    ".........",
+    "........."
+  ],
+  "overrides": [
+    {
+      "x": 3,
+      "y": 3,
+      "spec": {
+        "kind": "obstacle",
+        "id": "box",
+        "hp": 2,
+        "width": 2,
+        "height": 2,
+        "contains": { "kind": "obstacle", "id": "blocker" }
+      }
+    }
+  ]
+}

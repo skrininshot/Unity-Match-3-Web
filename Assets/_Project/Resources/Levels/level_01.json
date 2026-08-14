@@ -1,0 +1,10 @@
+{
+  "id": "level_01",
+  "name": "First Match",
+  "width": 7,
+  "height": 7,
+  "moveLimit": 16,
+  "seed": 0,
+  "palette": ["r", "g", "b", "y"],
+  "goals": [{ "color": "r", "count": 28 }]
+}

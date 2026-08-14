@@ -1,0 +1,23 @@
+{
+    "name": "Project.Editor",
+    "rootNamespace": "Match3.EditorTools",
+    "references": [
+        "Project.Core",
+        "Project.Data",
+        "Project.Presentation",
+        "Project.App",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

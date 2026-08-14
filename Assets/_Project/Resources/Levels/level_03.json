@@ -1,0 +1,10 @@
+{
+  "id": "level_03",
+  "name": "Wider Palette",
+  "width": 8,
+  "height": 8,
+  "moveLimit": 22,
+  "seed": 0,
+  "palette": ["r", "g", "b", "y", "p"],
+  "goals": [{ "color": "y", "count": 26 }]
+}

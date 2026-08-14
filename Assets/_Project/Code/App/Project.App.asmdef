@@ -1,0 +1,20 @@
+{
+    "name": "Project.App",
+    "rootNamespace": "Match3.App",
+    "references": [
+        "Project.Core",
+        "Project.Data",
+        "Project.Presentation",
+        "UnityEngine.UI",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
